@@ -1,13 +1,50 @@
 1. What is the GitHub URL for your branch's commits?  
+
 https://github.com/jstefanski1/CS498-Valvoline
+
 2. Which user stories did your team implement?  Include the text of those user stories here (but you do not need to include any associated graphics).
+
+Research Potential Improvements:
+As Head of Engineering, I want to explore future advancements in vision systems for defect detection so that I can propose innovative solutions to enhance quality 
+of the products at Valvoline.
+
+Live Defect Detection:
+As a Quality Control Engineer, I want to leverage vision systems for real-time defect detection so that I can reduce human error and improve the overall efficiency 
+of the manufacturing process.
+
+
 3. What problems did your team encounter during implementation?  How did you solve these?
+
+Valvoline wants to study the success of vision systems in other industries; however, most of the details involed in these systems are private information and 
+unavailable to us.
+
+
 4. Is there any missing functionality for those user stories?  If so, how does your team plan to address it?
+
+We are missing specific information about what hardware Valvoline should be using to optimize performance of their vision system. We plan to address it by researching
+server architecture used in the best performing systems.
+
 5. How did each team member contribute to this milestone?
-  - Nishan Budhathoki:
+
+  - Nishan Budhathoki:  I was able to research into the Technology Analysis side of our project especially into the topic of traditional image processing such 
+as thresholding techniques, edge detection and color analysis. Trying to figure out which techniques would work the best for Valvoline's Vision system for quality 
+control
+
   - Noble:
-  - Prahar:
-  - Milin:
-  - Jon Hall:
-  - Jonathan Stefanski:
+
+  - Prahar:  Formulated research on Current State-of-the-art technologies such as Deep Learning-based Vision Systems, smart cameras advanced lighting techniques 
+and some Comparative Studies of Vision Systems across different industries like automotive industry
+
+  - Milin:  For this prototype, I looked into the cost considerations of vision systems in the manufacturing industry. I found research papers that talked about 
+the cost of collecting data for deep learning models and training them. Additionally, I did some research into the physical components of the systems and the cost 
+for cameras, sensors, lighting, etc...
+
+  - Jon Hall:  
+
+  - Jonathan Stefanski:  Formulated research on challenges and limitations of latency on vision systems. This included researching a newer proactive continuous 
+vision system model that has shown to reduce latency by 92%. I also researched edge computing and how this is beneficial and necessary for modern vision systems 
+to decrease latency in industry 4.0.
+
 6. What did you learn or observe about the style, quantity or quality of the codebase that you were modifying? 
+
+*See attached rough draft
