@@ -15,8 +15,13 @@ of the manufacturing process.
 
 3. What problems did your team encounter during implementation?  How did you solve these?
 
-Valvoline wants to study the success of vision systems in other industries; however, most of the details involed in these systems are private information and 
-unavailable to us.
+A problem we had in the implementation of this research was, truthfully, a complete understanding of the requirements and needs from Valvoline's end. Initial discussions with them went 
+in a certain direction but after hearing more about the technologies they currently have, it seemed we would be going in a different direction. Indirectly, our
+communication skills were tested. 
+
+In terms of more concrete problems related to the research, Valvoline wants to study the success of vision systems in other industries; however, most of the details involed in these systems are 
+propietary information and very difficult to get a complete picture of. It requires detective work in a sense connecting many different papers and articles to try and create a complete idea 
+of what these companies are doing.
 
 
 4. Is there any missing functionality for those user stories?  If so, how does your team plan to address it?
