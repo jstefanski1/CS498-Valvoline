@@ -2,6 +2,7 @@
 
 https://github.com/jstefanski1/CS498-Valvoline
 
+
 2. Which user stories did your team implement?  Include the text of those user stories here (but you do not need to include any associated graphics).
 
 Research Potential Improvements:
@@ -30,13 +31,14 @@ We are missing specific information about what hardware Valvoline should be usin
 server architecture used in the best performing systems across other industries. This includes finding the required specs needed for an edge server to handle a model 
 that meets valvolines requirements and comparing across other industry 4.0 standards.
 
+
 5. How did each team member contribute to this milestone?
 
   - Nishan Budhathoki:  I was able to research into the Technology Analysis side of our project especially into the topic of traditional image processing such 
 as thresholding techniques, edge detection and color analysis. Trying to figure out which techniques would work the best for Valvoline's Vision system for quality 
 control
 
-  - Noble:
+  - Noble: [ENTER RESPONSE HERE]
 
   - Prahar:  Formulated research on Current State-of-the-art technologies such as Deep Learning-based Vision Systems, smart cameras advanced lighting techniques 
 and some Comparative Studies of Vision Systems across different industries like automotive industry
@@ -45,12 +47,18 @@ and some Comparative Studies of Vision Systems across different industries like 
 the cost of collecting data for deep learning models and training them. Additionally, I did some research into the physical components of the systems and the cost 
 for cameras, sensors, lighting, etc...
 
-  - Jon Hall:  
+  - Jon Hall:  I conducted research on traditional edge detection with notes on potential improvements, and CNN (Convolutional Neural Network) implementation for
+the purpose of enhancing images. Understanding more about the current state and new developments in image processing has helped us to meet the requirements set 
+by Valvoline.
 
   - Jonathan Stefanski:  Formulated research on challenges and limitations of latency on vision systems. This included researching a newer proactive continuous 
 vision system model that has shown to reduce latency by 92%. I also researched edge computing and how this is beneficial and necessary for modern vision systems 
 to decrease latency in industry 4.0.
 
+
 6. What did you learn or observe about the style, quantity or quality of the codebase that you were modifying? 
+
+There is availiable source code for image processing and analysis, but many of the leading systems are unavailiable so the quantity is limited. The quality of codebases
+that have attempted to improve accuracy or decrease costs has room for improvement due to latency. 
 
 *See attached rough draft
