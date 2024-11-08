@@ -22,7 +22,8 @@ unavailable to us.
 4. Is there any missing functionality for those user stories?  If so, how does your team plan to address it?
 
 We are missing specific information about what hardware Valvoline should be using to optimize performance of their vision system. We plan to address it by researching
-server architecture used in the best performing systems.
+server architecture used in the best performing systems across other industries. This includes finding the required specs needed for an edge server to handle a model 
+that meets valvolines requirements. 
 
 5. How did each team member contribute to this milestone?
 
