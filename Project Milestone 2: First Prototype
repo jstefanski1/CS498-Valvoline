@@ -38,7 +38,10 @@ that meets valvolines requirements and comparing across other industry 4.0 stand
 as thresholding techniques, edge detection and color analysis. Trying to figure out which techniques would work the best for Valvoline's Vision system for quality 
 control
 
-  - Noble: [ENTER RESPONSE HERE]
+  - Noble: I researched the historical evolution and advancements of vision systems in manufacturing, automotive, and electronics, focusing on industry-specific 
+applications and their integration with Industry 4.0 technologies to enhance precision, efficiency, and quality control. I found that vision systems were only 
+focused on basic flaw detection but have evolved to incorporate advanced imagining and machine learning that enable quality inspections and 
+data-driven control. 
 
   - Prahar:  Formulated research on Current State-of-the-art technologies such as Deep Learning-based Vision Systems, smart cameras advanced lighting techniques 
 and some Comparative Studies of Vision Systems across different industries like automotive industry
@@ -57,6 +60,10 @@ to decrease latency in industry 4.0.
 
 
 6. What did you learn or observe about the style, quantity or quality of the codebase that you were modifying? 
+
+Generally, we learned that research is all about objectivity, focusing on the good and bad. Valvoline have told us what their vision is and
+it is important that we are not only trying to find papers that support what Valvoline has in mind. Whenever we find information that is
+discouraging, we need to report on that as well.
 
 There is availiable source code for image processing and analysis, but many of the leading systems are unavailiable so the quantity is limited. The quality of codebases
 that have attempted to improve accuracy or decrease costs has room for improvement due to latency. 
