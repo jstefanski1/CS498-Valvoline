@@ -66,6 +66,7 @@ it is important that we are not only trying to find papers that support what Val
 discouraging, we need to report on that as well.
 
 There is availiable source code for image processing and analysis, but many of the leading systems are unavailiable so the quantity is limited. The quality of codebases
-that have attempted to improve accuracy or decrease costs has room for improvement due to latency. 
+that have attempted to improve accuracy or decrease costs has room for improvement due to latency. Furthermore, 99% of research found is done so
+in academic settings with little experimentation or reporting done by businesses(as one would probably expect).
 
 *See attached rough draft
